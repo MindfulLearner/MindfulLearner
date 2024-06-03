@@ -1,6 +1,6 @@
 # Hello, I'm MindfulLearner 👋 I LOVE CTF, LOGIC and LEARNING!  
 
-I'm addicted to KNOWLEDGE. 
+I'm addicted to KNOWLEDGE. This season i'm Silver 2 on Coding
 
 ## About Me
 
@@ -15,10 +15,14 @@ I'm passionate about learning and programming. I love diving into new languages 
 - **C** ![C Rank](https://img.shields.io/badge/Rank-Iron-gray) ⚙️
 - **C++** ![C++ Rank](https://img.shields.io/badge/Rank-Iron-gray) 🔧
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## Programming Techniques
 
+
+- **⚡ Fortnite Turbo Building**: Leveraging rapid development strategies to construct robust, scalable, and maintainable code structures at lightning speed, grinding this season till i get UNREAL on C++
 - **🎮 League of Legends Coding**: Continuously grinding my skills to climb the ranks, unlocking new levels of code mastery and efficiency.
-- **⚡ Fortnite Turbo Building**: Leveraging rapid development strategies to construct robust, scalable, and maintainable code structures at lightning speed.
 
 ## Collaboration
 
@@ -33,3 +37,5 @@ I'm looking forward to collaborating on projects that challenge my abilities and
 ## Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MindfulLearner&show_icons=true&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MindfulLearner&style=flat-square)
