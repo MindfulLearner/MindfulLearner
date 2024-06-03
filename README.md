@@ -1,6 +1,6 @@
 # Hello, I'm MindfulLearner 👋 I LOVE CTF, LOGIC and LEARNING!  
 
-I'm addicted to KNOWLEDGE. This season i'm Silver 2 on Coding
+I'm addicted to KNOWLEDGE. This season i'm Bronze 2 on Coding
 
 ## About Me
 
