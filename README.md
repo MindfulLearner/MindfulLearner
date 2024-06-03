@@ -1,4 +1,6 @@
-# Hello, I'm MindfulLearner 👋 I LOVE CTF!
+# Hello, I'm MindfulLearner 👋 I LOVE CTF, LOGIC and LEARNING!  
+
+I'm addicted to KNOWLEDGE. 
 
 ## About Me
 
@@ -24,10 +26,10 @@ I'm looking forward to collaborating on projects that challenge my abilities and
 
 ## Get in Touch
 
-- 📧 Email: coming soon..
-- 💼 LinkedIn: coming soon..
-- 🐦 Twitter: coming soon..
+- 📧 Email: coming soon...
+- 💼 LinkedIn: coming soon...
+- 🐦 Twitter: coming soon...
 
 ## Stats
 
-(https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MindfulLearner&show_icons=true&theme=radical)
