@@ -20,7 +20,7 @@ I'm passionate about learning and programming. I love diving into new languages 
 
 ## Programming Techniques
 
-- **⚡ Fortnite Turbo Building**: Leveraging rapid development strategies to construct robust, scalable, and maintainable code structures at lightning speed, grinding this season till i get UNREAL on C++
+- **⚡ Fortnite Turbo Building**: Leveraging rapid development strategies to construct robust, scalable, and maintainable code structures at lightning speed, grinding this season till i get UNREAL on C++ and exploting things.
 - **🎮 League of Legends Coding**: Continuously grinding my skills to climb the ranks, unlocking new levels of code mastery and efficiency. Trying my best to carry my team! Keep on Learning TEAM! 
 
 ## Collaboration
