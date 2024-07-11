@@ -1,4 +1,4 @@
-# Hello, I'm MindfulLearner 👋 I LOVE NEO/VIM, CTF, LOGIC and LEARNING!  
+# Hello, I'm MindfulLearner 👋 I LOVE LOGIC 
 
 I'm addicted to KNOWLEDGE. This season i'm Bronze 2 on Coding
 
