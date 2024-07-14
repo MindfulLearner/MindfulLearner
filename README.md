@@ -20,8 +20,8 @@ I'm passionate about learning and programming. I love diving into new languages 
 
 ## Programming Techniques
 
-- **⚡ Fortnite Turbo Building**: TURBO BUILDING IN NEOVIM with VIM MOTION
-- **🎮 CTF, LINUX, PWSH, BASH, VIM TRYHARDER**: COMPETITIVE AND GRINDING TURBO BUILDING IN VIM 
+- **⚡ Fortnite Turbo Building**: TURBO BUILDING 
+- **🎮 CTF, LINUX, PWSH, BASH, TRYHARDER**: COMPETITIVE AND GRINDING TURBO BUILDING IN 
 
 ## Collaboration
 
