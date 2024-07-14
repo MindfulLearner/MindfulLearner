@@ -1,4 +1,4 @@
-# Hello, I'm MindfulLearner 👋 I LOVE LOGIC 
+# EVERYTHING IS OPEN SOURCE IF YOU CAN REVERSE ENGENEERING IT. isNotLegalAdvise
 
 I'm addicted to KNOWLEDGE. This season i'm Bronze 2 on Coding
 
