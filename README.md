@@ -16,6 +16,12 @@ I'm passionate about learning and programming. I love diving into new languages 
 - **C++** ![C++ Rank](https://img.shields.io/badge/Rank-Iron-gray) 🔧 learner learner
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) learner learner
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) learner learner
 
 ## learner learner learner learner learner learner learner learner learner learner learner learner learner
