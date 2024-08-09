@@ -1,5 +1,7 @@
 # EVERYTHING IS OPEN SOURCE IF YOU CAN REVERSE ENGENEERING IT. isNotLegalAdvise learner learner learner learner learner learner
 
+![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
+
 I'm addicted to KNOWLEDGE. This season i'm Bronze 2 on Coding learner learner learner learner learner learner learner learner
 
 ## About Me learner learner learner learner learner learner learner learner learner learner
@@ -8,25 +10,26 @@ I'm passionate about learning and programming. I love diving into new languages 
 
 ## learner learner learner learner learner learner learner learner learner learner learner learner learner
 
-- **Python** ![Python Rank](https://img.shields.io/badge/Rank-Silver-lightgray) 🐍 learner learner
-- **JavaScript** ![JavaScript Rank](https://img.shields.io/badge/Rank-Silver-lightgray) 🌐 learner learner
-- **TypeScript** ![TypeScript Rank](https://img.shields.io/badge/Rank-Silver-lightgray) 💻 learner learner
-- **PHP** ![PHP Rank](https://img.shields.io/badge/Rank-Iron-gray) 🌍 learner learner
 - **C** ![C Rank](https://img.shields.io/badge/Rank-Gold-yellow) ⚙️ learner learner
 - **C++** ![C++ Rank](https://img.shields.io/badge/Rank-Iron-gray) 🔧 learner learner
+- **JavaScript** ![JavaScript Rank](https://img.shields.io/badge/Rank-Silver-lightgray) 🌐 learner learner
+- **TypeScript** ![TypeScript Rank](https://img.shields.io/badge/Rank-Silver-lightgray) 💻 learner learner
+- **Python** ![Python Rank](https://img.shields.io/badge/Rank-Silver-lightgray) 🐍 learner learner
+- **PHP** ![PHP Rank](https://img.shields.io/badge/Rank-Iron-gray) 🌍 learner learner
+
 - **Lua** ![Lua Rank](https://img.shields.io/badge/Rank-Bronze-orange) 🌙 learner learner
 
 - **Bash** ![Bash Rank](https://img.shields.io/badge/Rank-Bronze-orange) 🖥️ learner learner
 
-![Neovim Demo](https://cdn-images-1.medium.com/fit/t/1600/480/1*AmI9wRbXrfIWGESx6eEiTw.gif)
+
 
 ![Neovim](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png)
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) learner learner
 
