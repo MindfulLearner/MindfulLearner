@@ -16,9 +16,7 @@ I'm passionate about learning and learning. I love and i admire creative thinkin
 - **TypeScript** ![TypeScript Rank](https://img.shields.io/badge/Rank-Silver-lightgray) 💻 learner learner
 - **Python** ![Python Rank](https://img.shields.io/badge/Rank-Silver-lightgray) 🐍 learner learner
 - **PHP** ![PHP Rank](https://img.shields.io/badge/Rank-Iron-gray) 🌍 learner learner
-![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
 - **Lua** ![Lua Rank](https://img.shields.io/badge/Rank-Bronze-orange) 🌙 learner learner
-![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
 - **Bash** ![Bash Rank](https://img.shields.io/badge/Rank-Bronze-orange) 🖥️ learner learner
 
 
@@ -42,7 +40,6 @@ I'm passionate about learning and learning. I love and i admire creative thinkin
 I'm looking forward to collaborating on projects that challenge my abilities and help me grow. Let's build something amazing together! 🤝
 
 ## Get in Touch learner learner learner learner learner learner
-![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
 - 📧 Email: coming soon... learner learner
 - 💼 LinkedIn: coming soon... learner learner
 - 🐦 Twitter: coming soon... learner learner
