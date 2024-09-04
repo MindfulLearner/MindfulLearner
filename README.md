@@ -1,6 +1,6 @@
 # WEBDEV, SERVERLOVER, CYBERSEC, C Coding letsKeepOnLearningTogether EVERYTHING IS OPEN SOURCE IF YOU CAN REVERSE ENGENEERING IT. isNotLegalAdvise learner learner learner learner learner learner
 
-![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
+
 
 I'm addicted to KNOWLEDGE. This season i'm Bronze 2 on Coding, iDontLikeNotKnowing, i love learning from everyone and admire everyone better than me. learner learner learner learner learner learner learner learner
 
@@ -21,11 +21,9 @@ I'm passionate about learning and learning. I love and i admire creative thinkin
 ![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
 - **Bash** ![Bash Rank](https://img.shields.io/badge/Rank-Bronze-orange) 🖥️ learner learner
 
-![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
 
 ![Neovim](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png)
 
-![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
