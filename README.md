@@ -1,4 +1,4 @@
-# WEBDEV, SERVERLOVER, CYBERSEC, C Coding letsKeepOnLearningTogether EVERYTHING IS OPEN SOURCE IF YOU CAN REVERSE ENGENEERING IT. isNotLegalAdvise learner learner learner learner learner learner
+# WEBDEV, SERVERLOVER, CYBERSEC, C Coding letsKeepOnLearningTogether EVERYTHING IS OPEN SOURCE IF YOU CAN REVERSE ENGENEERING IT. learner learner learner learner learner learner
 
 
 
