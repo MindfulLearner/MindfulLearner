@@ -2,4 +2,5 @@
 
 I'm passionate about learning. I admire creative thinking. 
 
-working on svgestor
+work in progress: 
+- portfolio and svgestor
