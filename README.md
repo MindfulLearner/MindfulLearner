@@ -2,7 +2,7 @@
 
 Divergent learner thinker
 
-Focused on learning [Effect](https://effect.website/).
+Focused on learning [Effect](https://effect.website/). - I want to learn Crab language
 Try out [effect-app](https://github.com/effect-app) library!
 
 30jun2025 opened dima-portfolio so i might have a plenty of commits from other people!
